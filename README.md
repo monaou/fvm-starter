@@ -173,4 +173,4 @@ In summary, the "front-end" of the CC interacts with the contract, and takes in 
 Note that we have a few active threads and FRCs where the client contract is being discussed: 
  - [Our latest FRC draft, WIP](https://www.notion.so/WIP-Deal-Client-Contract-FRC-458e625f13b14c70bfdfe7ed64007b6c)
  - [FIP discussion 604](https://github.com/filecoin-project/FIPs/discussions/604)
- - [Boost discussion 1160](https://github.com/filecoin-project/boost/discussions/1160)
+ - [Boost discussion 1160](https://github.com/filecoin-project/boost/discussions/1160)# fvm-starter
